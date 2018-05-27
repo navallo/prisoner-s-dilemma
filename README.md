@@ -4,9 +4,9 @@
 
 
 
-[pd](prisoner-s-dilemma/figures/sample.png)
-Parameters:
-A total of 1000 generations. In each generation randomly select 100 pairs of players and repeat the game 20 times. The proportion of elites is 0.1 and mutation rate is 0.005.  
+![figure 1](https://github.com/navallo/prisoner-s-dilemma/raw/master/figures/sample.png)
+
+(Figure.1 Proportion of each situation. Blue: two cooperate, Orange: one defect, Green: two defect. Total of 1000 generations. In each generation randomly select 100 pairs of players and repeat the game 20 times. The proportion of elites is 0.1 and mutation rate is 0.005.)  
 
 An example genome: 0000010100110110111111  
 00(1 00 00)(1 00 00)(1 00 00)(1 00 00)  
