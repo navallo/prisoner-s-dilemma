@@ -1,6 +1,6 @@
 # prisoner-s-dilemma
 
-## prisoner-s-dilemma with four-state finite state machine  
+prisoner-s-dilemma with four-state finite state machine.  
 
 
 
@@ -11,5 +11,6 @@
 An example genome: 0000010100110110111111  
 00(1 00 00)(1 00 00)(1 00 00)(1 00 00)  
 
-Implementation refers to the following paper:  
+Implementation refers to the following papers:  
+* http://nautil.us/issue/52/the-hive/is-tribalism-a-natural-malfunction
 * https://www.cs.sfu.ca/~lshia/personal/econ/papers/johnmillerautomata.pdf  
